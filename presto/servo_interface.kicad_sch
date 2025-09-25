@@ -2,10 +2,10 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "323239e1-36b8-4cf6-bfa2-88554ebdfb3e")
+	(uuid "34d27b16-eacc-4b61-9271-30d4c1b582b9")
 	(paper "A4")
 	(lib_symbols)
-	(text "8+ 1x03 connectors (pins)"
+	(text "10x 1x03 connectors (pins)"
 		(exclude_from_sim no)
 		(at 52.578 65.024 0)
 		(effects
@@ -15,7 +15,7 @@
 		)
 		(uuid "00f7cefa-8bbe-4506-8150-35d12a70f3a7")
 	)
-	(text "8+ servo pins ideally\n"
+	(text "10x servo pins ideally\n"
 		(exclude_from_sim no)
 		(at 52.324 47.752 0)
 		(effects

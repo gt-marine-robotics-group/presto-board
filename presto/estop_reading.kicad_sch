@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "ebf2f7b2-3757-4a34-ae4b-dfa6c421c670")
+	(uuid "dcd334d9-e8ba-44e7-b257-7a77a297fe6f")
 	(paper "A4")
 	(lib_symbols)
 	(text "relay\nwhere the switch side is connected to the Pi Pico\nwhere the inductor side is connected to a 1x02 power connector (xt-30)"
