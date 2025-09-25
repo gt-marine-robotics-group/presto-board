@@ -1,0 +1,73 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "c8ae8f3d-1cfa-47e0-be8e-2ebe5ebbeecc")
+	(paper "A4")
+	(lib_symbols)
+	(text "6 1x03 header sockets"
+		(exclude_from_sim no)
+		(at 119.888 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "233063ec-8106-48bb-8b77-d001ad49a6fd")
+	)
+	(hierarchical_label "ch3"
+		(shape output)
+		(at 116.84 58.42 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3ffc95f6-e344-4929-be1c-d49b4b1418f9")
+	)
+	(hierarchical_label "ch4"
+		(shape output)
+		(at 116.84 60.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a4628f18-e4d8-4411-b0c8-cfcf9470c1a6")
+	)
+	(hierarchical_label "ch1"
+		(shape output)
+		(at 116.84 53.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bef2adac-1a8f-44c3-be06-e8b3a3bc61f6")
+	)
+	(hierarchical_label "ch5"
+		(shape output)
+		(at 116.84 63.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "dee11efd-070b-427f-b9c7-92d083cd2977")
+	)
+	(hierarchical_label "ch2"
+		(shape output)
+		(at 116.84 55.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f69934b6-4469-49b7-b1e5-23ecc3cb0e6e")
+	)
+)

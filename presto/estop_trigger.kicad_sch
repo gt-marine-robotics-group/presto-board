@@ -1,0 +1,18 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "fd1b2ffb-0d1b-404a-80bb-326d3bfa1cb1")
+	(paper "A4")
+	(lib_symbols)
+	(text "Sean's page"
+		(exclude_from_sim no)
+		(at 65.532 48.768 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a4d4dd97-c910-4180-a101-46c34f71c72c")
+	)
+)

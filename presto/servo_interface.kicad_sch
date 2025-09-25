@@ -1,0 +1,50 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "323239e1-36b8-4cf6-bfa2-88554ebdfb3e")
+	(paper "A4")
+	(lib_symbols)
+	(text "8+ 1x03 connectors (pins)"
+		(exclude_from_sim no)
+		(at 52.578 65.024 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "00f7cefa-8bbe-4506-8150-35d12a70f3a7")
+	)
+	(text "8+ servo pins ideally\n"
+		(exclude_from_sim no)
+		(at 52.324 47.752 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e2dc9ecb-9eb8-4f6d-a4e0-7467ebcdd91d")
+	)
+	(hierarchical_label "servo1"
+		(shape input)
+		(at 55.88 53.34 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ac8a78e5-63d1-40c6-88cc-0a3a577d7e21")
+	)
+	(hierarchical_label "servo2"
+		(shape input)
+		(at 55.88 57.15 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e1f615a9-c356-4eee-ae6a-c641c0f216ff")
+	)
+)

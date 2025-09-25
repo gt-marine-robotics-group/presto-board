@@ -1,0 +1,18 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "ebf2f7b2-3757-4a34-ae4b-dfa6c421c670")
+	(paper "A4")
+	(lib_symbols)
+	(text "relay\nwhere the switch side is connected to the Pi Pico\nwhere the inductor side is connected to a 1x02 power connector (xt-30)"
+		(exclude_from_sim no)
+		(at 81.28 49.022 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8c1c3069-e916-407d-bbe1-81b4ca058cfd")
+	)
+)
