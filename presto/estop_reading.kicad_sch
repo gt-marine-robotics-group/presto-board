@@ -1380,7 +1380,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "16f37bec-ad49-440c-811b-97c837b7691d")
-		(property "Reference" "#PWR0301"
+		(property "Reference" "#PWR0302"
 			(at 152.4 129.54 0)
 			(effects
 				(font
@@ -1430,7 +1430,7 @@
 		(instances
 			(project "presto"
 				(path "/0fac30c0-3f82-4ab4-8888-b9c60b2e0ca9/e9d4dd26-84d0-4e96-ad73-c89248131855"
-					(reference "#PWR0301")
+					(reference "#PWR0302")
 					(unit 1)
 				)
 			)
@@ -1685,7 +1685,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "af1fcbbb-0f64-4afa-ba49-e8aaa0798b3e")
-		(property "Reference" "#PWR0302"
+		(property "Reference" "#PWR0301"
 			(at 149.86 87.63 0)
 			(effects
 				(font
@@ -1735,7 +1735,7 @@
 		(instances
 			(project ""
 				(path "/0fac30c0-3f82-4ab4-8888-b9c60b2e0ca9/e9d4dd26-84d0-4e96-ad73-c89248131855"
-					(reference "#PWR0302")
+					(reference "#PWR0301")
 					(unit 1)
 				)
 			)

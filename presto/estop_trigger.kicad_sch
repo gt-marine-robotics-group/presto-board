@@ -2256,7 +2256,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9f52326d-a398-4751-bc9a-3989cc2a7601")
-		(property "Reference" "D402"
+		(property "Reference" "D403"
 			(at 148.59 95.2499 90)
 			(effects
 				(font
@@ -2328,7 +2328,7 @@
 		(instances
 			(project "presto"
 				(path "/0fac30c0-3f82-4ab4-8888-b9c60b2e0ca9/77affc6e-f265-4557-b7a6-ffe1a5f06898"
-					(reference "D402")
+					(reference "D403")
 					(unit 1)
 				)
 			)
@@ -2659,7 +2659,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b479823e-1519-4356-85a5-2e12a9ed794a")
-		(property "Reference" "#PWR0401"
+		(property "Reference" "#PWR0402"
 			(at 99.06 118.11 0)
 			(effects
 				(font
@@ -2709,7 +2709,7 @@
 		(instances
 			(project "presto"
 				(path "/0fac30c0-3f82-4ab4-8888-b9c60b2e0ca9/77affc6e-f265-4557-b7a6-ffe1a5f06898"
-					(reference "#PWR0401")
+					(reference "#PWR0402")
 					(unit 1)
 				)
 			)
@@ -2725,7 +2725,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b620febc-e8d3-45f4-a71a-c0cd621a9a66")
-		(property "Reference" "#PWR0404"
+		(property "Reference" "#PWR0403"
 			(at 123.19 134.62 0)
 			(effects
 				(font
@@ -2775,7 +2775,7 @@
 		(instances
 			(project "presto"
 				(path "/0fac30c0-3f82-4ab4-8888-b9c60b2e0ca9/77affc6e-f265-4557-b7a6-ffe1a5f06898"
-					(reference "#PWR0404")
+					(reference "#PWR0403")
 					(unit 1)
 				)
 			)
@@ -2870,7 +2870,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d1e6bbd0-5cf4-44e8-ae0f-7e7d753b58ea")
-		(property "Reference" "#PWR0403"
+		(property "Reference" "#PWR0401"
 			(at 82.55 86.36 0)
 			(effects
 				(font
@@ -2920,7 +2920,7 @@
 		(instances
 			(project ""
 				(path "/0fac30c0-3f82-4ab4-8888-b9c60b2e0ca9/77affc6e-f265-4557-b7a6-ffe1a5f06898"
-					(reference "#PWR0403")
+					(reference "#PWR0401")
 					(unit 1)
 				)
 			)
@@ -2936,7 +2936,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e2219fa7-3319-4fa7-9cac-585ec420d257")
-		(property "Reference" "#PWR0402"
+		(property "Reference" "#PWR0404"
 			(at 124.46 92.71 0)
 			(effects
 				(font
@@ -2986,7 +2986,7 @@
 		(instances
 			(project "presto"
 				(path "/0fac30c0-3f82-4ab4-8888-b9c60b2e0ca9/77affc6e-f265-4557-b7a6-ffe1a5f06898"
-					(reference "#PWR0402")
+					(reference "#PWR0404")
 					(unit 1)
 				)
 			)
@@ -3002,7 +3002,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f9c41805-4469-4813-a51b-0689bbc52211")
-		(property "Reference" "D403"
+		(property "Reference" "D402"
 			(at 132.08 106.9974 90)
 			(effects
 				(font
@@ -3065,7 +3065,7 @@
 		(instances
 			(project "presto"
 				(path "/0fac30c0-3f82-4ab4-8888-b9c60b2e0ca9/77affc6e-f265-4557-b7a6-ffe1a5f06898"
-					(reference "D403")
+					(reference "D402")
 					(unit 1)
 				)
 			)
