@@ -587,8 +587,8 @@
 		)
 	)
 	(rectangle
-		(start 49.53 34.29)
-		(end 135.89 137.16)
+		(start 23.114 30.988)
+		(end 180.34 141.478)
 		(stroke
 			(width 0)
 			(type default)
@@ -987,16 +987,6 @@
 			(type default)
 		)
 		(uuid "c0c0da97-3e1a-4252-b57d-9a9d288fe2d6")
-	)
-	(wire
-		(pts
-			(xy 46.99 74.93) (xy 46.99 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c410fe8a-d5ae-44d5-98aa-ef1ea6eef761")
 	)
 	(wire
 		(pts

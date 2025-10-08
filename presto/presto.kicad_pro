@@ -448,7 +448,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "GTMRG_Boards"
+    ]
   },
   "meta": {
     "filename": "presto.kicad_pro",
@@ -629,6 +631,14 @@
     [
       "7c259685-6390-4991-b1d4-6a2dc1de7b36",
       "RC Interface"
+    ],
+    [
+      "f58c1695-506e-4133-a5b9-df6f2b530f90",
+      "Regulators"
+    ],
+    [
+      "099afc4a-84ed-46b4-b6e0-19ebb31a570b",
+      "LED Interface"
     ]
   ],
   "text_variables": {}
