@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 1.9,
+          "height": 3.5,
+          "width": 3.5
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -59,26 +59,6 @@
         }
       ],
       "drc_exclusions": [
-        [
-          "courtyards_overlap|89410000|100452500|3ae96621-1a52-4f87-a6fa-7d5c0d756b9b|c18b1d4f-f0e9-4365-be1c-16d0e3c98bab",
-          ""
-        ],
-        [
-          "courtyards_overlap|89410000|102992500|3c7dce6c-53d5-4d4d-a694-b5b168d37673|c18b1d4f-f0e9-4365-be1c-16d0e3c98bab",
-          ""
-        ],
-        [
-          "courtyards_overlap|89410000|92832500|1aef76ad-259a-4269-8f8f-13a42710cba5|e001a208-b62d-4db2-a2af-64c4771f9793",
-          ""
-        ],
-        [
-          "courtyards_overlap|89410000|95397500|1aef76ad-259a-4269-8f8f-13a42710cba5|8a7d3dc9-5126-41c8-a6f5-26035e88e6af",
-          ""
-        ],
-        [
-          "courtyards_overlap|89410000|97912500|3ae96621-1a52-4f87-a6fa-7d5c0d756b9b|8a7d3dc9-5126-41c8-a6f5-26035e88e6af",
-          ""
-        ],
         [
           "lib_footprint_mismatch|117640000|138807500|1825da0d-55d4-414e-b448-a2997ab330da|00000000-0000-0000-0000-000000000000",
           ""
@@ -528,7 +508,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../../presto-gbr/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
