@@ -1,0 +1,8 @@
+[submodule "mrg-kicad-libs"]
+	path = mrg-kicad-libs
+	url = https://github.com/gt-marine-robotics-group/mrg-kicad-libs
+	branch = kicad10
+[submodule "libraries/mrg-kicad-libs"]
+	path = libraries/mrg-kicad-libs
+	url = https://github.com/gt-marine-robotics-group/mrg-kicad-libs
+	branch = kicad10
