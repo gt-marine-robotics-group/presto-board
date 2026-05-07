@@ -365,14 +365,15 @@
 				)
 			)
 		)
-		(property "Value" "GND"
-			(at 66.04 64.77 0)
+		(property "Value" "GND_LED"
+			(at 68.58 60.9599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
