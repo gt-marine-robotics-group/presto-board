@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "10.0")
 	(uuid "cfed4bba-51c9-4b4e-a4a5-2ffdc8d3a670")
-	(paper "A4")
+	(paper "USLetter")
 	(lib_symbols
 		(symbol "GTMRG-Boards:Pololu_S13V30F5"
 			(exclude_from_sim no)
