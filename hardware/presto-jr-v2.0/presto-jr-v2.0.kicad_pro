@@ -76,7 +76,16 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "silk_overlap|101897971|53550000|3f8ebbd3-b9ac-476c-878f-194848725d43|66920b5c-fc67-499d-8b97-799a6cce34f1",
+          ""
+        ],
+        [
+          "silk_overlap|109201950|53550000|13b520ff-3af3-424e-bacd-5122d4c135b4|3f8ebbd3-b9ac-476c-878f-194848725d43",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -156,7 +165,7 @@
         "min_microvia_drill": 0.1,
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
-        "min_text_height": 0.8,
+        "min_text_height": 0.6,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.0,
@@ -575,7 +584,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "/var/home/fishy/Downloads/presto2r00",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -652,12 +661,36 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -710,7 +743,7 @@
         "uuid": "0fac30c0-3f82-4ab4-8888-b9c60b2e0ca9"
       }
     ],
-    "used_designators": "",
+    "used_designators": "JP103-104,#PWR113",
     "variants": []
   },
   "sheets": [
